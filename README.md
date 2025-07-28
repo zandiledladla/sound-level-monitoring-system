@@ -1,4 +1,4 @@
-# sound-level-monitoring-system
+# Sound level Monitoring System
 
 A real-time sound level monitoring system built using a Raspberry Pi and microphone sensor. The system tracks ambient noise levels and alerts a client device when the volume exceeds a predefined threshold (e.g., 80 dB).
 
