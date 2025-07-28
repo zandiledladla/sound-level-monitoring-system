@@ -18,7 +18,7 @@ A real-time sound level monitoring system built using a Raspberry Pi and microph
 2. Or download the code directly from this version.
 3. Run the server on the Raspberry Pi and the client on a separate device to begin monitoring.
 
-##About This Version
+## About This Version
 This version of the project was re-uploaded for portfolio purposes by Zandile Monalisa Dladla, one of the original team members and contributors.
    
 ## Creators
